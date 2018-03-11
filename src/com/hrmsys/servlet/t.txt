@@ -1,0 +1,3091 @@
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        rolepermis0_.rp_id as rp1_16_,
+        rolepermis0_.role_id as role2_16_,
+        rolepermis0_.per_id as per3_16_ 
+    from
+        db_hrmsys.role_permission rolepermis0_ 
+    where
+        rolepermis0_.role_id=2
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        rolepermis0_.rp_id as rp1_16_,
+        rolepermis0_.role_id as role2_16_,
+        rolepermis0_.per_id as per3_16_ 
+    from
+        db_hrmsys.role_permission rolepermis0_ 
+    where
+        rolepermis0_.role_id=2
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        rolepermis0_.rp_id as rp1_16_,
+        rolepermis0_.role_id as role2_16_,
+        rolepermis0_.per_id as per3_16_ 
+    from
+        db_hrmsys.role_permission rolepermis0_ 
+    where
+        rolepermis0_.role_id=2
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        rolepermis0_.rp_id as rp1_16_,
+        rolepermis0_.role_id as role2_16_,
+        rolepermis0_.per_id as per3_16_ 
+    from
+        db_hrmsys.role_permission rolepermis0_ 
+    where
+        rolepermis0_.role_id=2
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        rolepermis0_.rp_id as rp1_16_,
+        rolepermis0_.role_id as role2_16_,
+        rolepermis0_.per_id as per3_16_ 
+    from
+        db_hrmsys.role_permission rolepermis0_ 
+    where
+        rolepermis0_.role_id=2
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        rolepermis0_.rp_id as rp1_16_,
+        rolepermis0_.role_id as role2_16_,
+        rolepermis0_.per_id as per3_16_ 
+    from
+        db_hrmsys.role_permission rolepermis0_ 
+    where
+        rolepermis0_.role_id=2
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        rolepermis0_.rp_id as rp1_16_,
+        rolepermis0_.role_id as role2_16_,
+        rolepermis0_.per_id as per3_16_ 
+    from
+        db_hrmsys.role_permission rolepermis0_ 
+    where
+        rolepermis0_.role_id=2
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        rolepermis0_.rp_id as rp1_16_,
+        rolepermis0_.role_id as role2_16_,
+        rolepermis0_.per_id as per3_16_ 
+    from
+        db_hrmsys.role_permission rolepermis0_ 
+    where
+        rolepermis0_.role_id=2
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        rolepermis0_.rp_id as rp1_16_,
+        rolepermis0_.role_id as role2_16_,
+        rolepermis0_.per_id as per3_16_ 
+    from
+        db_hrmsys.role_permission rolepermis0_ 
+    where
+        rolepermis0_.role_id=2
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        rolepermis0_.rp_id as rp1_16_,
+        rolepermis0_.role_id as role2_16_,
+        rolepermis0_.per_id as per3_16_ 
+    from
+        db_hrmsys.role_permission rolepermis0_ 
+    where
+        rolepermis0_.role_id=2
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        rolepermis0_.rp_id as rp1_16_,
+        rolepermis0_.role_id as role2_16_,
+        rolepermis0_.per_id as per3_16_ 
+    from
+        db_hrmsys.role_permission rolepermis0_ 
+    where
+        rolepermis0_.role_id=2
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
+Hibernate: 
+    select
+        permission0_.per_id as per1_15_,
+        permission0_.menu_id as menu2_15_,
+        permission0_.per_function as per3_15_ 
+    from
+        db_hrmsys.permission permission0_ 
+    where
+        permission0_.per_id=? 
+        and permission0_.menu_id=?
