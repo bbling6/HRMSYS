@@ -1,7 +1,5 @@
 package com.hrmsys.action;
 /**
- * @author sux
- * @date 2011-01-10
  * @class BaseAction
  */
 
